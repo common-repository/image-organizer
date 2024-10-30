@@ -1,0 +1,51 @@
+
+<table class="widefat fixed" cellspacing="0">
+	<thead>
+	<tr>
+	<th scope="col" id="cb" class="manage-column column-cb check-column" style=""><input type="checkbox" /></th>
+	<th scope="col" id="name" class="manage-column column-name" style="">Name</th>
+	<th scope="col" id="url" class="manage-column column-url" style="">URL</th>
+
+	<th scope="col" id="categories" class="manage-column column-categories" style="">Categories</th>
+	<th scope="col" id="rel" class="manage-column column-rel" style="">Relationship</th>
+	<th scope="col" id="visible" class="manage-column column-visible" style="">Visible</th>
+	<th scope="col" id="rating" class="manage-column column-rating" style="">Rating</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+	<th scope="col"  class="manage-column column-cb check-column" style=""><input type="checkbox" /></th>
+	<th scope="col"  class="manage-column column-name" style="">Name</th>
+	<th scope="col"  class="manage-column column-url" style="">URL</th>
+	<th scope="col"  class="manage-column column-categories" style="">Categories</th>
+	<th scope="col"  class="manage-column column-rel" style="">Relationship</th>
+
+	<th scope="col"  class="manage-column column-visible" style="">Visible</th>
+	<th scope="col"  class="manage-column column-rating" style="">Rating</th>
+	</tr>
+	</tfoot>
+
+	<tbody>
+<tr id="link-2" valign="middle"  class="alternate"><th scope="row" class="check-column"><input type="checkbox" name="linkcheck[]" value="2" /></th><td class="column-name"><strong><a class='row-title' href='http://localhost/wordpress_new/wp-admin/link.php?action=edit&amp;link_id=2' title='Edit &#8220;Development Blog&#8221;'>Development Blog</a></strong><br /><div class="row-actions"><span class='edit'><a href="http://localhost/wordpress_new/wp-admin/link.php?action=edit&amp;link_id=2">Edit</a> | </span><span class='delete'><a class='submitdelete' href='link.php?action=delete&amp;link_id=2&amp;_wpnonce=4c54f5ca74' onclick="if ( confirm('You are about to delete this link \'Development Blog\'\n  \'Cancel\' to stop, \'OK\' to delete.') ) { return true;}return false;">Delete</a></span></div></td><td class="column-url"><a href='http://wordpress.org/development/' title='Visit Development Blog'>wordpress.org/development</a></td><td class="column-categories"><a href='link-manager.php?cat_id=2'>Blogroll</a></td><td class="column-rel"><br /></td><td class="column-visible">Yes</td><td class="column-rating">0</td>
+
+    </tr>
+<tr id="link-1" valign="middle" ><th scope="row" class="check-column"><input type="checkbox" name="linkcheck[]" value="1" /></th><td class="column-name"><strong><a class='row-title' href='http://localhost/wordpress_new/wp-admin/link.php?action=edit&amp;link_id=1' title='Edit &#8220;Documentation&#8221;'>Documentation</a></strong><br /><div class="row-actions"><span class='edit'><a href="http://localhost/wordpress_new/wp-admin/link.php?action=edit&amp;link_id=1">Edit</a> | </span><span class='delete'><a class='submitdelete' href='link.php?action=delete&amp;link_id=1&amp;_wpnonce=ffdd94e05d' onclick="if ( confirm('You are about to delete this link \'Documentation\'\n  \'Cancel\' to stop, \'OK\' to delete.') ) { return true;}return false;">Delete</a></span></div></td><td class="column-url"><a href='http://codex.wordpress.org/' title='Visit Documentation'>codex.wordpress.org</a></td><td class="column-categories"><a href='link-manager.php?cat_id=2'>Blogroll</a></td><td class="column-rel"><br /></td><td class="column-visible">Yes</td><td class="column-rating">0</td>
+    </tr>
+<tr id="link-5" valign="middle"  class="alternate"><th scope="row" class="check-column"><input type="checkbox" name="linkcheck[]" value="5" /></th><td class="column-name"><strong><a class='row-title' href='http://localhost/wordpress_new/wp-admin/link.php?action=edit&amp;link_id=5' title='Edit &#8220;Plugins&#8221;'>Plugins</a></strong><br /><div class="row-actions"><span class='edit'><a href="http://localhost/wordpress_new/wp-admin/link.php?action=edit&amp;link_id=5">Edit</a> | </span><span class='delete'><a class='submitdelete' href='link.php?action=delete&amp;link_id=5&amp;_wpnonce=3f6dfc6f40' onclick="if ( confirm('You are about to delete this link \'Plugins\'\n  \'Cancel\' to stop, \'OK\' to delete.') ) { return true;}return false;">Delete</a></span></div></td><td class="column-url"><a href='http://wordpress.org/extend/plugins/' title='Visit Plugins'>wordpress.org/extend/plugins</a></td><td class="column-categories"><a href='link-manager.php?cat_id=2'>Blogroll</a></td><td class="column-rel"><br /></td><td class="column-visible">Yes</td><td class="column-rating">0</td>
+
+    </tr>
+<tr id="link-3" valign="middle" ><th scope="row" class="check-column"><input type="checkbox" name="linkcheck[]" value="3" /></th><td class="column-name"><strong><a class='row-title' href='http://localhost/wordpress_new/wp-admin/link.php?action=edit&amp;link_id=3' title='Edit &#8220;Suggest Ideas&#8221;'>Suggest Ideas</a></strong><br /><div class="row-actions"><span class='edit'><a href="http://localhost/wordpress_new/wp-admin/link.php?action=edit&amp;link_id=3">Edit</a> | </span><span class='delete'><a class='submitdelete' href='link.php?action=delete&amp;link_id=3&amp;_wpnonce=2a705e3313' onclick="if ( confirm('You are about to delete this link \'Suggest Ideas\'\n  \'Cancel\' to stop, \'OK\' to delete.') ) { return true;}return false;">Delete</a></span></div></td><td class="column-url"><a href='http://wordpress.org/extend/ideas/' title='Visit Suggest Ideas'>wordpress.org/extend/ideas</a></td><td class="column-categories"><a href='link-manager.php?cat_id=2'>Blogroll</a></td><td class="column-rel"><br /></td><td class="column-visible">Yes</td><td class="column-rating">0</td>
+    </tr>
+<tr id="link-4" valign="middle"  class="alternate"><th scope="row" class="check-column"><input type="checkbox" name="linkcheck[]" value="4" /></th><td class="column-name"><strong><a class='row-title' href='http://localhost/wordpress_new/wp-admin/link.php?action=edit&amp;link_id=4' title='Edit &#8220;Support Forum&#8221;'>Support Forum</a></strong><br /><div class="row-actions"><span class='edit'><a href="http://localhost/wordpress_new/wp-admin/link.php?action=edit&amp;link_id=4">Edit</a> | </span><span class='delete'><a class='submitdelete' href='link.php?action=delete&amp;link_id=4&amp;_wpnonce=dd4a76e319' onclick="if ( confirm('You are about to delete this link \'Support Forum\'\n  \'Cancel\' to stop, \'OK\' to delete.') ) { return true;}return false;">Delete</a></span></div></td><td class="column-url"><a href='http://wordpress.org/support/' title='Visit Support Forum'>wordpress.org/support</a></td><td class="column-categories"><a href='link-manager.php?cat_id=2'>Blogroll</a></td><td class="column-rel"><br /></td><td class="column-visible">Yes</td><td class="column-rating">0</td>
+
+    </tr>
+<tr id="link-6" valign="middle" ><th scope="row" class="check-column"><input type="checkbox" name="linkcheck[]" value="6" /></th><td class="column-name"><strong><a class='row-title' href='http://localhost/wordpress_new/wp-admin/link.php?action=edit&amp;link_id=6' title='Edit &#8220;Themes&#8221;'>Themes</a></strong><br /><div class="row-actions"><span class='edit'><a href="http://localhost/wordpress_new/wp-admin/link.php?action=edit&amp;link_id=6">Edit</a> | </span><span class='delete'><a class='submitdelete' href='link.php?action=delete&amp;link_id=6&amp;_wpnonce=4bf7a96a6d' onclick="if ( confirm('You are about to delete this link \'Themes\'\n  \'Cancel\' to stop, \'OK\' to delete.') ) { return true;}return false;">Delete</a></span></div></td><td class="column-url"><a href='http://wordpress.org/extend/themes/' title='Visit Themes'>wordpress.org/extend/themes</a></td><td class="column-categories"><a href='link-manager.php?cat_id=2'>Blogroll</a></td><td class="column-rel"><br /></td><td class="column-visible">Yes</td><td class="column-rating">0</td>
+    </tr>
+<tr id="link-7" valign="middle"  class="alternate"><th scope="row" class="check-column"><input type="checkbox" name="linkcheck[]" value="7" /></th><td class="column-name"><strong><a class='row-title' href='http://localhost/wordpress_new/wp-admin/link.php?action=edit&amp;link_id=7' title='Edit &#8220;WordPress Planet&#8221;'>WordPress Planet</a></strong><br /><div class="row-actions"><span class='edit'><a href="http://localhost/wordpress_new/wp-admin/link.php?action=edit&amp;link_id=7">Edit</a> | </span><span class='delete'><a class='submitdelete' href='link.php?action=delete&amp;link_id=7&amp;_wpnonce=a62d7acf0c' onclick="if ( confirm('You are about to delete this link \'WordPress Planet\'\n  \'Cancel\' to stop, \'OK\' to delete.') ) { return true;}return false;">Delete</a></span></div></td><td class="column-url"><a href='http://planet.wordpress.org/' title='Visit WordPress Planet'>planet.wordpress.org</a></td><td class="column-categories"><a href='link-manager.php?cat_id=2'>Blogroll</a></td><td class="column-rel"><br /></td><td class="column-visible">Yes</td><td class="column-rating">0</td>
+
+    </tr>
+	</tbody>
+</table>
+
+
